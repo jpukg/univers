@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="univers-model" />
+        <module name="univers-repository" />
+        <module name="univers-service" />
+        <module name="univers-ui" />
+        <module name="univers-util" />
+        <module name="univers-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="univers" target="1.5" />
+      <module name="univers-model" target="1.5" />
+      <module name="univers-repository" target="1.5" />
+      <module name="univers-service" target="1.5" />
+      <module name="univers-ui" target="1.5" />
+      <module name="univers-util" target="1.5" />
+      <module name="univers-utils" target="1.5" />
+      <module name="univers-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
